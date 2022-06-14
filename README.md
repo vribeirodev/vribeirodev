@@ -1,8 +1,10 @@
 <div align="center">
     <a href="https://beacons.ai/vribeirodev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vribeirodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vribeirodev&theme=tokyonight&hide_border=false&&layout=compact"/>
+        
 </div>
-    
+
 ##
 
 <div align="center" style="margin: 10px;">
